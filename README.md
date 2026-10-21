@@ -59,18 +59,3 @@ La CP1 am pregatit incarcarea datelor. La CP2 vom analiza distributiile,
 corelatiile si evolutia senzorilor pe ferestre de cicluri.
 Normalizarea se va calcula doar pe train, iar validarea va folosi motoare
 separate. Valorile RUL vor fi folosite doar pentru evaluare.
-
-Documente
----------
-- CP1_U16.pdf: prezentarea in trei slide-uri.
-- datacard_U16.pdf: descrierea surselor de date.
-- SOA_U16.pdf: sinteza celor 10 articole.
-
-Rezultatele din SOA apartin autorilor, nu sunt obtinute in acest proiect.
-Studiile folosesc date si metode diferite, deci scorurile nu se compara direct.
-
-Utilizarea datelor
-------------------
-Datele provin de la NASA PCoE, iar sursa trebuie citata.
-Nu am identificat o licenta CC specifica; se respecta conditiile NASA.
-Datele brute nu sunt incluse in repository.
